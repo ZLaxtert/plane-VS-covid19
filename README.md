@@ -1,5 +1,5 @@
 # plane-VS-covid19
-![PHP](https://img.shields.io/badge/language-PHP-blue.svg)
+![PYTHON](https://img.shields.io/badge/language-Python-blue.svg)
 ![BANDITCODING](https://img.shields.io/badge/Team-Banditcoding-green)
 ![AUTHOR](https://img.shields.io/badge/Author-Zlaxtert-orange)
 
